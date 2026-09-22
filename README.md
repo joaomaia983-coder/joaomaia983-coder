@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá
 
-<!--
-**joaomaia983-coder/joaomaia983-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciências da Computação
+- Buscando atuar como Desenvolvedor de software / Banco de dados
+- Atualmente aprofundando meus conhecimentos em Back end / Banco de dados
+  
+  ## Tecnologia e ferramentas
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+  ![htmx Badge](https://img.shields.io/badge/htmx-36C?logo=htmx&logoColor=fff&style=flat-square)
+ ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square)
+ ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 
-Here are some ideas to get you started:
+## Meu RoadMap (Próximos 6 meses)
+- [ ] Aprender Python
+- [ ] Aprender C
+- [ ] Modelar um banco de dados com precisao
+- [ ] Melhorar leitura de inglês
+- [ ] Melhorar fundamentos de programação
+  
+  ## Projetos em destaque 
+  | PROJETO | DESCRIÇÃO | STACK PRINCIPAL
+  | --- | --- | --- |
+  |Em breve| em processo| Python/C/SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Como Falar Comigo
+  - [https://www.linkedin.com/in/jo%C3%A3o-maia-677543208/]
+  - `joaovitoralves983@gmail.com`
