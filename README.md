@@ -22,6 +22,7 @@
   ## Projetos em destaque 
   | PROJETO | DESCRIÇÃO | STACK PRINCIPAL
   | --- | --- | --- |
+  | [Cafeteria TI](https://github.com/joaomaia983-coder/Cafeteria_TI) | Banco de dados de uma cafeteria para o público de TI, com clientes, produtos, funcionários e pedidos | MySQL |
   |Em breve| em processo| Python/C/SQL
 
 ## Como Falar Comigo
